@@ -2,7 +2,7 @@
 F1TV Viewer - Watch your F1TV Stream in VLC Media Player
 
 # Requirements
-Valid F1TV Subscription
+[Valid F1TV Subscription](https://f1tv.formula1.com)
 
 [VLC Media Player](https://www.videolan.org)
 
