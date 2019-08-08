@@ -13,6 +13,8 @@ F1TV Viewer - Watch your F1TV Stream in VLC Media Player
 
 
 # Instructions
+Extract/Copy the files to a location of your choice.
+
 Start "Developer Tools" in your favorite Browser. Go to the Network-Tab and filter/search for the keyword "master". 
 
 Now surf to F1TV and start the desired stream.
