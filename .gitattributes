@@ -3,5 +3,5 @@
 # exclude docs folder
 /docs           export-ignore
 /docs/*         export-ignore
-# exclude Github-Pages config
-_config.yml
+# exclude config files
+*config.*
