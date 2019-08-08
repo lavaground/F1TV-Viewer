@@ -1,8 +1,8 @@
 # exclude .gitignore and similar from the generated tarball
 .git*           export-ignore
 # exclude config files
-_config.yml
-*config*
+_config.yml     export-ignore
+*config*        export-ignore
 # exclude docs folder
 /docs           export-ignore
 /docs/*         export-ignore
