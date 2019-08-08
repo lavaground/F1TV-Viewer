@@ -29,3 +29,5 @@ When the stream has ended or VLC was closed you'll be back at the start and all 
 You need to leave the batch file running, minimizing is no problem. 
 
 Closing the CMD Window will terminate the stream.
+
+You can create a shortcut on your desktop and use the "F1TV.ico" to make it look nice. :)
