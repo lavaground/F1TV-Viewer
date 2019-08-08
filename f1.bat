@@ -1,19 +1,19 @@
 @echo off
 cls
 set pasta=pasta.txt
-:menu
+:MENU
 echo ===============================================================================
 echo.
 echo 		F1TV Viewer - Please copy a link to your clipboard.
 echo.
 echo ===============================================================================
-ECHO.
-ECHO 1 - Start the Stream
-ECHO 2 - EXIT
-ECHO.
-SET /P M=Type 1, 2, then press ENTER:
-IF %M%==1 GOTO STREAMLINK
-IF %M%==2 GOTO EOF
+echo.
+echo 1 - Start the Stream
+echo 2 - EXIT
+echo.
+set /p menu=Type 1, 2, then press ENTER:
+IF %menu%==1 GOTO STREAMLINK
+IF %menu%==2 GOTO EOF
 :STREAMLINK
 paste > pasta.txt
 set /p link=<%pasta%
