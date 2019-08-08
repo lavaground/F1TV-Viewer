@@ -15,7 +15,9 @@ Streamlink - https://github.com/streamlink/streamlink/releases
 # Instructions
 Start "Developer Tools" in your favorite Browser. Go to the Network-Tab and filter/search for the keyword "master". 
 
-Copy the link to the master stream file to your clipboard and run the batch file. 
+Now surf to F1TV and start the desired stream.
+
+From the Developer Tools copy the link to the master stream file to your clipboard and run the batch file. 
 
 Press 1 and ENTER to start the stream.
 
