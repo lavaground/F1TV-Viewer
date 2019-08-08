@@ -17,11 +17,15 @@ Start "Developer Tools" in your favorite Browser. Go to the Network-Tab and filt
 
 Copy the link to the master stream file to your clipboard and run the batch file. 
 
-Press 1 and ENTER to start the stream 
+Press 1 and ENTER to start the stream.
 
 Press 2 and ENTER to exit the program.
+
+When the stream has ended or VLC was closed you'll be back at the start and all that's necessary is a new stream-link in your clipboard.
 
 
 
 # Notes
-You need to leave the batch file running, minimizing is no problem. Closing the CMD Window will terminate the stream.
+You need to leave the batch file running, minimizing is no problem. 
+
+Closing the CMD Window will terminate the stream.
