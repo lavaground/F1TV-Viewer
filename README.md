@@ -4,11 +4,11 @@ F1TV Viewer - Watch your F1TV Stream in VLC Media Player
 # Requirements
 Valid F1TV Subscription
 
-VLC Media Player - https://www.videolan.org
+[VLC Media Player](https://www.videolan.org)
 
-Streamlink - https://github.com/streamlink/streamlink/releases
+[Streamlink](https://github.com/streamlink/streamlink/releases)
 
-"paste.exe" in any directory that is in your PATH (e.g. %windir%\system32) - https://www.c3scripts.com/tutorials/msdos/paste.html - credits to https://github.com/Jaykul
+[paste.exe](https://www.c3scripts.com/tutorials/msdos/paste.html) in any directory that is in your PATH (e.g. %windir%\system32) - credits to [Jaykul](https://github.com/Jaykul)
 
 
 
