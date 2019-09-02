@@ -10,7 +10,7 @@ F1TV Viewer - Watch your F1TV Stream in VLC Media Player
 
 [paste.exe](https://www.c3scripts.com/tutorials/msdos/paste.html) in any directory that is in your PATH (e.g. %windir%\system32) - credits to [Jaykul](https://github.com/Jaykul)
 
-
+Optional: [HLS-Dowloader](https://github.com/puemos/hls-downloader-chrome-extension) (Chrome Extension)
 
 # Instructions
 Extract/Copy the files to a location of your choice.
@@ -27,6 +27,7 @@ Press 2 and ENTER to exit the program.
 
 When the stream has ended or VLC was closed you'll be back at the start and all that's necessary is a new stream-link in your clipboard.
 
+Alternatively you can use [HLS-Dowloader](https://github.com/puemos/hls-downloader-chrome-extension) (Chrome Extension) to get and copy the master.m3u8 link.
 
 
 # Notes
