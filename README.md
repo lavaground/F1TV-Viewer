@@ -1,10 +1,12 @@
 # F1TV-Viewer
 F1TV Viewer - Watch your F1TV Stream in VLC Media Player
 
-Click [here](https://github.com/lavaground/F1TV-Viewer/releases) to download.
+Click [--> here <--](https://github.com/lavaground/F1TV-Viewer/releases) to download.
 
 # Requirements
 [Valid F1TV Subscription](https://f1tv.formula1.com)
+
+[The Batch File](https://github.com/lavaground/F1TV-Viewer/releases)
 
 [VLC Media Player](https://www.videolan.org)
 
